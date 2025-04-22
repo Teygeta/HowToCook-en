@@ -45,5 +45,5 @@ jobs:
 
       - name: Build and push the Docker image
         run: |
-          docker build . --tag ghcr.io/anduin2017/how-to-cook:latest
-          docker push ghcr.io/anduin2017/how-to-cook:latest
+          docker build . --tag ghcr.io/${{ github.actor }}/how-to-cook:latest
+          docker push ghcr.io/${{ github.actor }}/how-to-cook:latest
