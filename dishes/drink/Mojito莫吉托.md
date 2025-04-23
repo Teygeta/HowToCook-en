@@ -1,46 +1,45 @@
+# How to Make a Mojito
 
-# Mojito莫吉托的做法
+Mojito is a traditional Cuban highball cocktail.
 
-Mojito 是一种传统的古巴高球鸡尾酒。
+This cocktail has a relatively low alcohol content (approximately 10%).
 
-这种调酒有着相对低的酒精含量（大约 10%）。
+Estimated cooking difficulty: ★★★
 
-预估烹饪难度：★★★
+## Essential Ingredients and Tools
 
-## 必备原料和工具
+- Crushed ice
+- Chilled soda water
+- Juicer
+- Highball glass
+- Muddler
 
-- 打碎的冰块
-- 冰镇苏打水
-- 压汁器
-- 海波杯
-- 研杵
+## Calculation
 
-## 计算
+Per serving:
 
-每份：
+- One lime (cut into two halves)
+- Five mint leaves
+- Syrup 20ml
+- Gold rum 45ml
+- Skyy Original Vodka 10ml
 
-- 一块青柠（切成两个半块）
-- 五珠薄荷叶
-- 糖浆 20ml
-- 金色朗姆酒 45ml
-- 蓝天原味伏特加 10ml
+## Instructions
 
-## 操作
+- Cut one of the lime halves into small pieces, put it in a highball glass, and then use a muddler to extract the juice;
+- Use 3-4 mint leaves to coat along the rim of the glass, then put them in the glass;
+- Add syrup 20ml;
+- Add gold rum 45ml;
+- Squeeze the juice from the remaining half of the lime into the glass;
+- Stir gently to keep the sugar/syrup in a semi-fused state;
+- Put the crushed ice into the glass until it occupies 3/4 of the glass;
+- Add chilled soda water until it just submerges the crushed ice;
+- Rotate and stir for half a minute;
+- Use crushed ice to fill the highball glass;
+- Clap the remaining mint leaf to wake it up, insert it into the crushed ice for decoration.
 
-- 将切成半块的青柠之一切成小块，放入海波杯，随后用研杵将其捣出汁；
-- 用 3-4 珠薄荷叶沿着杯口涂抹，随后将其放入杯中；
-- 加入 糖浆 20ml；
-- 加入 金色朗姆酒 45ml；
-- 将剩下的半块青柠压出汁水放入杯中；
-- 轻轻搅拌，使砂糖/糖浆处于半融合状态；
-- 将打碎的冰块放入杯中，直到占杯中 3/4；
-- 加入冰镇苏打水直到刚好淹没碎冰；
-- 旋转搅拌半分钟；
-- 使用碎冰将海波杯补满；
-- 将剩下的一株薄荷叶拍醒，插入碎冰，作装饰。
+## Additional Information
 
-## 附加内容
+- Reference: [【Bilibili】Mojito, one of the most famous classic cocktails in the world.](https://www.bilibili.com/video/BV1jg4y187kB)
 
-- 参考资料：[【哔哩哔哩】莫吉托(Mojito)世界上最著名的经典鸡尾酒之一。](https://www.bilibili.com/video/BV1jg4y187kB)
-
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。
+If you follow the production process in this guide and find any problems or processes that can be improved, please submit an Issue or Pull request.
